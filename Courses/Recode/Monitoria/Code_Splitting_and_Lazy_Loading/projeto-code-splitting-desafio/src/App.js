@@ -15,7 +15,7 @@ const Slogan = lazy( () => import('./code-splitting/Slogan'));
 const Rodape = lazy( () => import('./code-splitting/Rodape'));
 
 
-function App() {
+function App() { 
   return (
     <div className="App">
       <header className="App-header">
