@@ -7,4 +7,4 @@ function  Slogan(){
     )
 }
 
-export default Slogan;
+export default Slogan; 
