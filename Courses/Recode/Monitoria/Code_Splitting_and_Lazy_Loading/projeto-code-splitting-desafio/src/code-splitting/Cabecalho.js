@@ -7,8 +7,8 @@ function Cabecalho(){
         <div>
             <div>
                 <img src={logo} className="App-logo" alt="logo" />
-            </div> 
-            <div>
+            </div>  
+            <div> 
                     <img src={goku}  alt="goku"/>
             </div>
         </div>
