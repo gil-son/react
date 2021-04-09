@@ -1,2 +1,2 @@
-# react
-pratice
+# React
+## Practice
